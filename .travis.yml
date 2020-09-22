@@ -5,15 +5,8 @@ python:
 
 services: postgresql
 
-
 install:
  - pip install -r requirements.txt
- - pip install mysqlclient
-
-before_script:
-  - psql -c 'CREATE DATABASE djangodb;' -U postgres
 
 script: 
- - python manage.py makemigrations
- - python manage.py migrate
  - python manage.py test
