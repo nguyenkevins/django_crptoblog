@@ -7,6 +7,7 @@ services: postgresql
 
 install:
  - pip install -r requirements.txt
+ - pip install mysqlclient==2.0.1
 
 script: 
  - python manage.py test
