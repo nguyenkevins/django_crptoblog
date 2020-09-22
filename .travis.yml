@@ -1,7 +1,5 @@
 language: python
 
-os: window
-
 python:
  - "3.8"
 
