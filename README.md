@@ -47,7 +47,7 @@ python manage.py makemigrations student
 python manage.py migrate
 ```
 
-After setting up the student database, it should be described looking like this:
+After setting up the student table, it should be described looking like this:
 ```
 student
 +----------+--------------+------+-----+---------+----------------+
