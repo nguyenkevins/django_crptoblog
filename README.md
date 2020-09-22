@@ -34,14 +34,14 @@ This bot currently has a table for holding student information.
 * Student Contact
 
 To create the djangodb database, do this:
-```mysql
+```
 * Delete every _pycache_ folder
 * Delete migrations folder inside the student folder
 * Open your MySQL terminal and type:
 CREATE DATABASE djangodb;
 ```
 Next, create the student table by doing this:
-```python
+```
 * Open your terminal or command that is in the root of the project:
 python manage.py makemigrations student
 python manage.py migrate
