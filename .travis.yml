@@ -1,1 +1,6 @@
-
+language: node_js
+python:
+  - 3
+  
+ django:
+  - 3
