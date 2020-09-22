@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/nguyenkevins/django_database.svg?branch=master)](https://travis-ci.com/nguyenkevins/django_database) fails when _init_.py not used
+[![Build Status](https://travis-ci.com/nguyenkevins/django_database.svg?branch=master)](https://travis-ci.com/nguyenkevins/django_database) fails when `__init__.py` not used
 # Django Database
 
 ![Demo1](https://github.com/nguyenkevins/django_database/blob/master/misc/wallpaper.PNG)
