@@ -1,13 +1,13 @@
-language: python # => 1
+language: python
 python:
-  - "3.8"
-  
-services: # => 3
-      - mysql
-      
-env: # => 4
-      -DJANGO=3.1 DB=mysql
-    before_script: # => 6
-      - mysql -e 'CREATE DATABASE djangodb;' -u root
-    script: # => 7
-      - python manage.py runserver
+- "3.8"
+# setup environment
+env:
+- DJANGO_VERSION=3.1.1
+# install dependencies
+install:
+- pip install -r requirements.txt
+
+# run test scripts
+script:
+- python manage.py runserver
