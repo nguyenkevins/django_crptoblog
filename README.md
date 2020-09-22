@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.com/nguyenkevins/nitrogen.svg?branch=master)](https://travis-ci.com/nguyenkevins/nitrogen)
 # Django Database
 
-![Demo1](https://github.com/nguyenkevins/nitrogen/blob/master/misc/wallpaper.png)
+![Demo1](https://github.com/nguyenkevins/django_database/blob/master/misc/wallpaper.PNG)
 
 ### To-Do List: 
 * Need better GUI
