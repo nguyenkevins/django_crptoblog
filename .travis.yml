@@ -4,9 +4,6 @@ python:
 # setup environment
 env:
 - DJANGO_VERSION=3.1.1
-# install dependencies
-install:
-- pip install -r requirements.txt
 
 # run test scripts
 script:
