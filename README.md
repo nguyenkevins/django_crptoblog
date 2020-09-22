@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/nguyenkevins/nitrogen.svg?branch=master)](https://travis-ci.com/nguyenkevins/nitrogen)
+[![Build Status](https://travis-ci.com/nguyenkevins/django_database.svg?branch=master)](https://travis-ci.com/nguyenkevins/django_database)
 # Django Database
 
 ![Demo1](https://github.com/nguyenkevins/django_database/blob/master/misc/wallpaper.PNG)
