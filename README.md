@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.com/nguyenkevins/django_database.svg?branch=master)](https://travis-ci.com/nguyenkevins/django_database) ~ only fails when `__init__.py` not used
 # Django Database
 
-![Demo1](https://github.com/nguyenkevins/django_database/blob/master/misc/wallpaper.PNG)
+![Demo1](https://github.com/nguyenkevins/django_database/blob/master/misc/djangodatabase.png)
 
 ### To-Do List: 
 * Need better GUI
